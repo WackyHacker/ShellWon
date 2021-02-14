@@ -38,7 +38,7 @@ sudo apt-get install Netcat
 **WackyHacker** - *Todo el proyecto* - [WEIK](https://github.com/WackyHacker)
 ## Licencia 📄
 
-Este proyecto esta bajo Licencia - mira el archivo [LICENSE](https://github.com/WackyHacker/scanbox/blob/master/LICENSE) para mas detalles
+Este proyecto esta bajo Licencia - mira el archivo [LICENSE](https://github.com/WackyHacker/ShellWon/blob/main/LICENSE) para mas detalles
 
 ## ¿Cómo funciona?
 
